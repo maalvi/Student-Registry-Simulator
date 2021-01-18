@@ -1,6 +1,8 @@
 # Student-Registry-Simulator
 A Java command-line application that simulates and creates schedules for students in the registry. Commands can be found in README.
 
+COMPILE StudentRegistrySimulator.java AS IT CONTAINS MAIN CLASS!
+
 Some Commands
 ---------------------------------------------------------------------
       L    : list all the students in the registry
